@@ -1,6 +1,7 @@
 h1{
   text-align: center;
   padding-top: 15px;
+  font-family: Helvetica;
 }
 h2{
   font-family: Helvetica;
@@ -22,6 +23,7 @@ h2{
 .menunav{
   text-align: center;
   font-size: 25px;
+  padding-bottom: 10px;
 }
 a:active{
   color: #FFFFFF
@@ -72,16 +74,20 @@ a:active{
 .formex{
   text-align: center;
   padding-top: 15px;
+  padding-bottom: 15px;
 }
 .formex1{
   text-align: center;
+  font-size: 17px;
 }
 .formex2{
   text-align: center;
+  font-size: 17px;
 }
 .formex3{
   text-align: center;
   padding-top: 15px;
+  font-size: 17px;
 }
 .contact{
   background-color: #2B2B2B;
